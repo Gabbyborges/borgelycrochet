@@ -296,8 +296,8 @@
         <div class="footer-column">
           <h4>Redes Sociais</h4>
           <ul>
-            <li><a href="https://instagram.com/borgelycrochet" target="_blank">Instagram</a></li>
-            <li><a href="https://wa.me/5511999999999" target="_blank">WhatsApp</a></li>
+            <li><a href="https://www.instagram.com/borgely.crochet/" target="_blank">Instagram</a></li>
+            <li><a href="https://wa.me/5516991678560" target="_blank">WhatsApp</a></li>
           </ul>
         </div>
       </div>
